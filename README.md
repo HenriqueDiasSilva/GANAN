@@ -42,7 +42,7 @@ Para rodar o repositório na Unity e ter acesso ao "Layout" do jogo com tudo, ba
 
 ## 🖊️ Licença
 
-Este projeto é licensiado sob a licença MIT.
+Este projeto é licenciado sob a licença MIT.
 
 ---
 
