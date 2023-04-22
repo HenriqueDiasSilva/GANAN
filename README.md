@@ -20,6 +20,9 @@ O MVP chamado XAMPU foi desenvolvido durante a 11ª Campus Mobile, que consiste 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - Unity 2021.3.22f1
+- ShaderLab
+- Mathematica
+- HLSL
 - C#
 
 ## 💻 Projeto
