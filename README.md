@@ -46,4 +46,4 @@ Este projeto é licenciado sob a licença MIT.
 
 ---
 
-Projeto desenvolvido com ♥ por Henrique Dias Silva e projetado com ♥ por Bruno Abraâo, Dandara Baçã e Gabriel.
+Projeto desenvolvido com ♥ por Henrique Dias Silva e projetado com ♥ por Bruno Abraão, Dandara Baçã e Gabriel.
