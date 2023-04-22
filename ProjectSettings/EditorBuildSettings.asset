@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 10963f4fa0a9a2249a15305b0488005e
+  - enabled: 1
+    path: "Assets/Scenes/Primeiro Ciclo/Primeira Miss\xE3o.unity"
+    guid: dedb5d06c597c764db33d3b00adc3e11
+  - enabled: 1
+    path: Assets/Scenes/Primeiro Ciclo/Primeira Fase.unity
+    guid: 8272cef574a79a14b8798a2a4427c834
+  - enabled: 1
+    path: "Assets/Scenes/Primeiro Ciclo/Primeira Vit\xF3ria.unity"
+    guid: 13ed63cb2a102a74ebf8571d7c370a87
+  - enabled: 1
+    path: Assets/Scenes/Primeiro Ciclo/Primeira Derrota.unity
+    guid: d22b0c7ce433cde4ab9f74ae962edd28
+  - enabled: 1
+    path: "Assets/Scenes/Segundo Ciclo/Segunda Miss\xE3o.unity"
+    guid: 7eeb1939b2742284fb06427a506199c6
+  - enabled: 1
+    path: Assets/Scenes/Segundo Ciclo/Segunda Fase.unity
+    guid: 324dd59d82a08004fb838190f8eb8712
+  - enabled: 1
+    path: "Assets/Scenes/Segundo Ciclo/Segunda Vit\xF3ria.unity"
+    guid: 02ca342c25c52494695dfa54d4bbe309
+  - enabled: 1
+    path: Assets/Scenes/Segundo Ciclo/Segunda Derrota.unity
+    guid: b6634cbae6583f34ba8ad878df848b75
+  - enabled: 1
+    path: Assets/Scenes/Segundo Ciclo/Fim.unity
+    guid: 819b1d5fce66f7b42b8857a86c6d22f0
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 9a9a3e63ebe2a374f89dc5b66e05f15f, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 3b4fe4f0a2289b74f80445ad229c378b, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 6b01bf089a895014abc37ba89054c02b, type: 2}
